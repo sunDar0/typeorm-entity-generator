@@ -1,0 +1,1 @@
+# Typeorm entity generator
